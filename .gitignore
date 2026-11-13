@@ -1,0 +1,7 @@
+out/
+out_*/
+art2/
+art3/
+art_final/
+__pycache__/
+*.pyc
